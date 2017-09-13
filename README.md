@@ -1,1 +1,1 @@
-"# Hybrid Method Vector Representation" 
+# Hybrid Method Vector Representation
